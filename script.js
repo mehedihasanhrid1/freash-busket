@@ -1,6 +1,6 @@
 // Set the date one month from now
 const targetDate = new Date();
-targetDate.setFullYear(2024, 1, 31);
+targetDate.setFullYear(2025, 1, 31);
 
 function updateCountdown() {
   const currentDate = new Date();
